@@ -1,0 +1,9 @@
+Script started on Thu Oct 25 08:10:34 2018
+[1m[7m#[27m[1m[0m                                                                                                                       ]2;root@Henryde-Air: ~/Desktop/Operating_System/HW4]1;..ng_System/HW4[0m[27m[24m[J[39m[0m[49m[40m[39m [33m⚡[40m[39m [33mroot@Henryde-Air [44m[30m[30m ~/Desktop/Operating_System/HW4 [49m[34m[39m [K[?1h=[32mexit[39m[32mp[32my[32mt[32mh[32mon3[39m [4mnpsched.py[24m[P[9C [10D[?1l>
+]2;python3 psched.py]1;python3tasks = [Task('A', 0, 7), Task('B', 2, 4), Task('C', 4, 1), Task('D', 5, 4)]
+preemptive SJF: A-A-B-B-C-B-B-D-D-D-D-A-A-A-A-A-None-None-None-None
+preemptive FCFS: A-A-A-A-A-A-A-B-B-B-B-C-D-D-D-D-None-None-None-None
+preemptive RR: A-A-B-A-B-C-A-D-B-A-D-B-A-D-A-D-None-None-None-None
+[1m[7m#[27m[1m[0m                                                                                                                       ]2;root@Henryde-Air: ~/Desktop/Operating_System/HW4]1;..ng_System/HW4[0m[27m[24m[J[39m[0m[49m[40m[39m [33m⚡[40m[39m [33mroot@Henryde-Air [44m[30m[30m ~/Desktop/Operating_System/HW4 [49m[34m[39m [K[?1h=[1m[31me[0m[39m[90mxit[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>
+]2;exit]1;exit
+Script done on Thu Oct 25 08:11:26 2018

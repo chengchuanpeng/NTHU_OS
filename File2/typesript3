@@ -1,0 +1,31 @@
+Script started on Thu Dec 13 10:21:15 2018
+[1m[7m#[27m[1m[0m                                                                                                                       ]2;root@Henryde-Air: ~/Desktop/Operating_System/HW10]1;..g_System/HW10[0m[27m[24m[J[39m[0m[49m[40m[39m [33m⚡[40m[39m [33mroot@Henryde-Air [44m[30m[30m ~/Desktop/Operating_System/HW10 [49m[34m[39m [K[?1h=[4mp[24m[90mython3 proc.py[39m[14D[24m[1m[31mp[1m[31my[0m[39m[1m[31mp[1m[31my[1m[31mt[0m[39m[1m[31mt[1m[31mh[0m[39m[1m[31mh[1m[31mo[0m[39m[0m[32mp[0m[32my[0m[32mt[0m[32mh[0m[32mo[32mn[39m[32mn[32m3[39m[39m [39md[90me[90mt[90me[90mc[90mt[90m.[90mpy[39m[8D[39mi[39m [39m [39m [39m [39m [39m [39m sk.p[4md[4mi[4ms[4mk[4m.[4mp[4my[24m[?1l>
+]2;python3 disk.py]1;python3policy FCFS  (640): [98, 183, 37, 122, 14, 124, 65, 67]
+policy SSTF  (236): [65, 67, 37, 14, 98, 122, 124, 183]
+policy SCAN up (331): [65, 67, 98, 122, 124, 183, 199, 37, 14]
+policy SCAN down (236): [37, 14, 0, 65, 67, 98, 122, 124, 183]
+policy LOOK up (299): [65, 67, 98, 122, 124, 183, 37, 14]
+policy LOOK down (208): [37, 14, 65, 67, 98, 122, 124, 183]
+policy C-SCAN up (382): [65, 67, 98, 122, 124, 183, 199, 0, 14, 37]
+policy C-SCAN down (386): [37, 14, 0, 199, 183, 124, 122, 98, 67, 65]
+policy C-LOOK up (322): [65, 67, 98, 122, 124, 183, 14, 37]
+policy C-LOOK down (326): [37, 14, 183, 124, 122, 98, 67, 65]
+more tests on SCAN and C-SCAN
+Q=[98, 37, 0, 122, 14]
+policy SCAN up (345): [98, 122, 199, 37, 14, 0]
+policy SCAN down (175): [37, 14, 0, 98, 122]
+policy C-SCAN up (382): [98, 122, 199, 0, 14, 37]
+policy C-SCAN down (353): [37, 14, 0, 199, 122, 98]
+Q=[98, 37, 199, 122, 14]
+policy SCAN up (331): [98, 122, 199, 37, 14]
+policy SCAN down (252): [37, 14, 0, 98, 122, 199]
+policy C-SCAN up (382): [98, 122, 199, 0, 14, 37]
+policy C-SCAN down (353): [37, 14, 0, 199, 122, 98]
+Q=[98, 0, 37, 199, 14]
+policy SCAN up (345): [98, 199, 37, 14, 0]
+policy SCAN down (252): [37, 14, 0, 98, 199]
+policy C-SCAN up (382): [98, 199, 0, 14, 37]
+policy C-SCAN down (353): [37, 14, 0, 199, 98]
+[1m[7m#[27m[1m[0m                                                                                                                       ]2;root@Henryde-Air: ~/Desktop/Operating_System/HW10]1;..g_System/HW10[0m[27m[24m[J[39m[0m[49m[40m[39m [33m⚡[40m[39m [33mroot@Henryde-Air [44m[30m[30m ~/Desktop/Operating_System/HW10 [49m[34m[39m [K[?1h=[1m[31me[0m[39m[90mxit[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>
+]2;exit]1;exit
+Script done on Thu Dec 13 10:21:29 2018

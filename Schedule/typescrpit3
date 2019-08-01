@@ -1,0 +1,9 @@
+Script started on Thu Oct 25 08:09:39 2018
+[1m[7m#[27m[1m[0m                                                                                                                       ]2;root@Henryde-Air: ~/Desktop/Operating_System/HW4]1;..ng_System/HW4[0m[27m[24m[J[39m[0m[49m[40m[39m [33m⚡[40m[39m [33mroot@Henryde-Air [44m[30m[30m ~/Desktop/Operating_System/HW4 [49m[34m[39m [K[?1h=[4mp[24m[90mython3 sched.py[39m[15D[24m[1m[31mp[1m[31my[0m[39m[1m[31mp[1m[31my[1m[31mt[0m[39m[1m[31mt[1m[31mh[0m[39m[1m[31mh[1m[31mo[0m[39m[0m[32mp[0m[32my[0m[32mt[0m[32mh[0m[32mo[32mn[39m[32mn[32m3[39m[39m [39m[4mn[24m[90mp[90ms[90mc[90mh[90me[90md[90m.[90mpy[39m[9D[4mn[39m[4mp[39m[4ms[39m[4mc[39m[4mh[39m[4me[39m[4md[24m[4md[39m[4m.[39m[4mp[39m[4my[24m[?1l>
+]2;python3 npsched.py]1;python3tasks = [Task('A', 0, 7), Task('B', 2, 4), Task('C', 4, 1), Task('D', 5, 4)]
+nonpreemptive SJF: A-A-A-A-A-A-A-C-B-B-B-B-D-D-D-D-None-None-None-None
+nonpreemptive FCFS: A-A-A-A-A-A-A-B-B-B-B-C-D-D-D-D-None-None-None-None
+nonpreemptive RR: A-A-A-A-A-A-A-B-B-B-B-C-D-D-D-D-None-None-None-None
+[1m[7m#[27m[1m[0m                                                                                                                       ]2;root@Henryde-Air: ~/Desktop/Operating_System/HW4]1;..ng_System/HW4[0m[27m[24m[J[39m[0m[49m[40m[39m [33m⚡[40m[39m [33mroot@Henryde-Air [44m[30m[30m ~/Desktop/Operating_System/HW4 [49m[34m[39m [K[?1h=[1m[31me[0m[39m[90mxit[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>
+]2;exit]1;exit
+Script done on Thu Oct 25 08:10:24 2018
